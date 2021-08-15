@@ -25,6 +25,10 @@ a:hover {
     cursor: pointer;
 }
 
+p {
+    font-size : 17px;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
